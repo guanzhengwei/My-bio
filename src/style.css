@@ -1,0 +1,214 @@
+@media only screen and (max-width: 500px) {
+    .avatar, .welcome {
+        display: none;
+    }
+    h1 {
+        font-size: 30px;
+    }
+}
+
+body {
+    margin: 0;
+}
+
+.bio {
+    padding: 2.5% 5%;
+    background-color: #4a4a4a;
+}
+.bio h1 {
+    display: inline;
+    color: #f5ae23;
+}
+.contacts {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 24px 0;
+}
+.avatarAndSkills {
+    display: flex;
+}
+.skills ol {
+    list-style-type: none;
+    padding: 0;
+}
+h3 {
+    color: #f5ae23;
+}
+.skill {
+    padding: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+.avatar {
+    padding-right: 12px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.role {
+    padding: 5px;
+    color: #ff7700;
+}
+.orange-text {
+    color: #f5ae23;
+    padding: 5px;
+}
+.white-text {
+    font-weight: bold;
+    color: #fff;
+}
+
+.welcome {
+    color: #ff7700;
+    font-size: 18px;
+}
+
+.work {
+    padding: 1% 5%;
+    background-color: #f3f3f3;
+}
+
+h2 {
+    color: #999;
+}
+
+.list-work {
+    list-style-type: none;
+    padding: 0;
+}
+
+.work-list {
+    padding-bottom: 15px; 
+}
+
+.date-location {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.work-title a {
+    color: #1199c3;
+    text-decoration: none;
+}
+
+.project {
+    padding: 0 5%;
+}
+
+.list-projects {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-list {
+    padding-bottom: 15px; 
+}
+
+.project-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-title a {
+    color: #1199c3;
+    text-decoration: none;
+}
+
+.project-date {
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+}
+
+.project-description {
+    font-size: 14px;
+}
+
+.education {
+    padding: 1% 5%;
+    background-color: #f3f3f3;
+}
+
+.schools {
+    padding: 0;
+}
+.list-school {
+    list-style-type: none;
+    padding: 0;
+}
+.school-name a {
+    color: #1199c3;
+    text-decoration: none;
+}
+
+.school-date {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+}
+
+.major {
+    font-style: italic;
+}
+
+.onlineCourses {
+    list-style-type: none;
+    padding: 0;
+}
+.onlineCourse-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.onlineCourse-title a {
+    color: #1199c3;
+    text-decoration: none;
+}
+
+.onlineCourse-date {
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+}
+
+.myMap {
+    padding: 0 5%;
+}
+
+.app {
+    width: 100%;
+    height: 400px;
+  }
+
+#contact-github, #contact-weibo, #contact-email{
+    color: #1199c3;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #f5ae23;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+    margin-top: 24px;
+}
+
+.footer a {
+    color: #1199c3;
+    text-decoration: none;
+    font-weight: bold;
+}
+
