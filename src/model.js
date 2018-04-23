@@ -12,7 +12,7 @@ const model = {
             location: 'Beijing'
         },
         welcomeMessage: "Thank you for viewing my resume",
-        skills: ["HTML  CSS  JavaScript ES6", "React jQuery Ajax JSON","webpack npm Git"],
+        skills: ["HTML  CSS  JavaScript ES6", "React jQuery Ajax","webpack npm Git"],
         biopic: "avatar.jpg"
 	},
 
