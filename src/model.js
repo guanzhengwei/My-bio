@@ -20,18 +20,18 @@ const model = {
 		jobs: [
 			{
 				employer: "人工智能学家",
-				title: "内容运营",
+				title: "公众号运营",
 				location: "北京",
 				date: "2016.10.01 - 2018.02.28",
-				description: "负责新媒体内容和市场运营工作",
+				description: "负责人工智能学家的公众号运营，负责期间公众号粉丝由8万多增涨到16万多。",
 				url: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwOTA1MDAyNA==&scene=124&#wechat_redirect"
 			},
 			{
 				employer: "太平洋电脑网",
-				title: "大客户销售",
+				title: "大客户代表",
 				location: "广州",
 				date: "2014.10.01 - 2016.09.30",
-				description: "负责太平洋电脑网的大客户开发与维护",
+				description: "负责太平洋电脑网业务拓展，包括老客户的维护以及新客户的开发工作，完成个人及公司的销售指标；工作期间成功策划完成华为Mate8，荣耀7，创维oled，暴风TV，大疆无人机等产品的上市推广工作。年销售额超过320万，超个人销售指标80万。",
 				url: "http://www.pconline.com.cn/"
 			}
 		]
